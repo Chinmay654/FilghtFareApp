@@ -1,0 +1,30 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+    background-image: url("n3.jpg");
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+a {
+    color: black;
+    text-align: center;
+
+}
+
+div.card-body
+{
+ background-color: #81c9e6;
+ color: #1004b8;
+}
+
+div.card-body:hover
+{
+ background-color: white;
+ color: black;
+}
